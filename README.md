@@ -1,7 +1,7 @@
 # Project Title
 A concise, engaging 1-2 sentence description of what this project does and the problem it solves.
 
-![Screenshot](link-to-image.png)
+
 
 ## Table of Contents
 - [Installation](#installation)
