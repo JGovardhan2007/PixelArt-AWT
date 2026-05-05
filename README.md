@@ -3,11 +3,11 @@
 A fully-featured, retro-style drawing application built using **Java AWT**. This project demonstrates GUI layout management, event handling, and image processing in native Java.
 
 ##  Advanced Features
-- ** Multi-color Palette:** Draw with Black, Red, Blue, Green, Yellow, or use White as an eraser.
-- ** Dynamic Resolution:** Instantly switch between **10x10**, **16x16**, or **32x32** canvases for different levels of detail.
-- ** Drag-to-Paint:** Fluid drawing experience using `MouseMotionListener`.
-- ** Export to PNG:** Save your artwork directly to your computer using a native file dialog.
-- ** Instant Reset:** Dedicated "Clear" button to wipe the canvas.
+- **Multi-color Palette:** Draw with Black, Red, Blue, Green, Yellow, or use White as an eraser.
+- **Dynamic Resolution:** Instantly switch between **10x10**, **16x16**, or **32x32** canvases for different levels of detail.
+- **Drag-to-Paint:** Fluid drawing experience using `MouseMotionListener`.
+- **Export to PNG:** Save your artwork directly to your computer using a native file dialog.
+- **Instant Reset:** Dedicated "Clear" button to wipe the canvas.
 
 ##  How to Use
 1. **Compile:** `javac PixelArt.java`
